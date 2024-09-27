@@ -1,5 +1,3 @@
-# pip install fastapi uvicorn
-# uvicorn main:app --reload
 # https://www.markdownguide.org/cheat-sheet/
 
 from fastapi import FastAPI, HTTPException
