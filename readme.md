@@ -15,7 +15,7 @@ Clone the repository (or create your own project with the files provided here).
 Install the dependencies:
 
 ``` bash
-    pip install fastapi uvicorn
+pip install fastapi uvicorn
 ```
 
 ## Running the Application
@@ -23,7 +23,7 @@ Install the dependencies:
 Run the FastAPI application using Uvicorn:
 
 ``` bash
-    uvicorn main:app --reload
+uvicorn main:app --reload
 ```
 This will start the application on http://127.0.0.1:8000.
 
